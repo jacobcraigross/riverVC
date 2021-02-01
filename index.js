@@ -26,6 +26,12 @@ const rivers = [
     {name: "Lampasas", length: 188, depth: 6, deathsThisYear: false}
 ]
 
+const creeks = [
+    {name: "Barton", hazard: false},
+    {name: "Waller", hazard: true},
+    {name: "Shoal", hazard: true},
+]
+
 console.log(rivers)
 
 
